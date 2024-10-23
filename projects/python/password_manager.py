@@ -28,3 +28,5 @@ while True:
    print("Invalid mode")
    continue
  print("Password saved successfully")
+ print("hi")
+ 
